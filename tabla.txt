@@ -1,0 +1,7 @@
+Biborkadarka 3 1730.2 
+Dunagyongye 2 1570.3
+Csokaszolo 0.5 930.6
+Hajnoskek 5 1000.4
+Laska 6 1872.3
+olaszrizling 10 1232.3,2232.3,400
+olaszrizling 10 1232.3,2232.3,300
